@@ -10,7 +10,7 @@ public class gerakan : MonoBehaviour
     public float z;
     [SerializeField] private float speed_Jump = 3f;
     [SerializeField] private float speed_jalan = 2f;
-    [SerializeField] private float speed_lari = 4f;
+    [SerializeField] public float speed_lari = 4f;
 
     [SerializeField] private float gravitasi = -9.81f;
     [SerializeField] private Transform groundCheck;
