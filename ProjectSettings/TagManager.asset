@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fire
+  - Obstacle
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -11,10 +14,10 @@ TagManager:
   - 
   - Water
   - UI
-  - post processing
+  - PostProcessing
   - Ground
-  - 
-  - 
+  - Player
+  - Enemy
   - 
   - 
   - 
